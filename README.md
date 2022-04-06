@@ -7,7 +7,7 @@ Many T.V shows have booomed since the beginning of the pandemic. That being said
 ## Here's some must-watch shows that you need to see
 ---
 
-### *Stranger Things* (Dir. Matt and Ross Duffer)
+## *Stranger Things* (Dir. Matt and Ross Duffer)
 ![Stranger_Things_logo](https://user-images.githubusercontent.com/102715141/161916747-6391d22e-cb30-4884-a77d-c9f37348a869.png)
  
 After the mysterious and sudden vanishing of a young boy, the people of a small town begin to uncover secrets of a government lab, portals to another world and sinister monsters. The boy's mother (Joyce) desperately tries to find him, convinced he is in grave danger, while the police chief searches for answers. 
