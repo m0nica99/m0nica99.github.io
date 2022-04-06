@@ -1,6 +1,6 @@
 # Best T.V Series 
 ---
-Made by: Monica Friz R. Gonzaga
+Made by: Monica Friz R. Gonzaga (Goupil 9)
 
 Many T.V shows have booomed since the beginning of the pandemic. That being said, I thought it would be nice to share the love with all of you because I know you’re looking to binge something great right about now. 
 
