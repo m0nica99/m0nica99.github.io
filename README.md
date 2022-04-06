@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Best T.V Series 
+---
+Made by: Monica Friz R. Gonzaga
 
-You can use the [editor on GitHub](https://github.com/m0nica99/m0nica99.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Many T.V shows have booomed since the beginning of the pandemic. That being said, I thought it would be nice to share the love with all of you because I know you’re looking to binge something great right about now. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here's some must-watch shows that you need to see
+---
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## **STRANGER THINGS** (Dir. Matt and Ross Duffer)
+![Stranger_Things_logo](https://user-images.githubusercontent.com/102715141/161916747-6391d22e-cb30-4884-a77d-c9f37348a869.png)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/m0nica99/m0nica99.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
