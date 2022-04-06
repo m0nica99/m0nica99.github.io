@@ -22,7 +22,7 @@ The show is based on the popular "Bridgerton" book series, written by Julia Quin
 
 ---
 
- ## *Modern Family* (Dir. Christopher Wilcha)
+## *Modern Family* (Dir. Christopher Wilcha)
 ![Webp net-resizeimage](https://user-images.githubusercontent.com/102715141/161930904-e3e6c531-1989-4e67-9736-6f9a5ed4dfbb.jpg)
 
 Modern Family is an American TV comedy series revolving around three families interrelated through Jay Pritchett, his son Mitchell Pritchett, and his daughter Claire Dunphy. The families meet for family functions (usually around their three neighborhoods or while traveling during vacations) and cross-family bonding.
