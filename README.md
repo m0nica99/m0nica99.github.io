@@ -15,6 +15,7 @@ After the mysterious and sudden vanishing of a young boy, the people of a small 
 Stranger Things is an American science fiction horror drama television series created by the Duffer Brothers and streaming on Netflix.
 
 ---
+
 ## *Bridgerton* (Dir. Julie Anne Robinson)
 ![bridgerton](https://user-images.githubusercontent.com/102715141/161924965-55146b7a-e1fc-4200-b1fb-25bcbe9c9160.jpeg)
 
@@ -23,8 +24,8 @@ The show is based on the popular "Bridgerton" book series, written by Julia Quin
 ---
 
 ## *Modern Family* (Dir. Christopher Wilcha)
-![Webp net-resizeimage](https://user-images.githubusercontent.com/102715141/161930904-e3e6c531-1989-4e67-9736-6f9a5ed4dfbb.jpg)
 
+![Webp net-resizeimage](https://user-images.githubusercontent.com/102715141/161930904-e3e6c531-1989-4e67-9736-6f9a5ed4dfbb.jpg)
 Modern Family is an American TV comedy series revolving around three families interrelated through Jay Pritchett, his son Mitchell Pritchett, and his daughter Claire Dunphy. The families meet for family functions (usually around their three neighborhoods or while traveling during vacations) and cross-family bonding.
 
 ---
